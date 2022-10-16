@@ -12,13 +12,13 @@ let sum6 = lab6[0] + lab6[1] + lab6[2] + lab6[3] + lab6[4] + lab6[5];
 let sums = [sum1, sum2, sum3, sum4_5, sum6];
 let total_score = (sums[0] + sums[1] + sums[2] + sums[3] + sums[4]) * 0.6 + quiz1[0] * 0.4;
 const results = {
-lab1: [], 
-lab2: [], 
-lab3: [], 
-lab4_5: [], 
-lab6: [], 
-quiz1: [], 
-sums: [], 
-total_score: , 
+lab1: [...], 
+lab2: [...], 
+lab3: [...], 
+lab4_5: [...], 
+lab6: [...], 
+quiz1: [...], 
+sums: [...], 
+total_score: ..., 
 };
 console.log(results);
