@@ -20,5 +20,5 @@ lab6: […],
 quiz1: … , 
 sums: […], 
 total_score: …, 
-}
+};
 console.log(results)
